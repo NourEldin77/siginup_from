@@ -1,5 +1,15 @@
+:root{
+--bc-blue: #293253;
+--bc-top: #FFD55A;
+--bc-form:#6DD47E;
+--cat-clr : #A6C1CA;
+}
+
 *,*::before,*::after{
     margin: 0;
     padding: 0;
     box-sizing:border-box;
+    font-family: 'Inter', sans-serif;
 }
+
+
